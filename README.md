@@ -1,0 +1,1 @@
+This repository contains code for Qxf2's email bots. This repository is meant to run on only one machine. So, no setup instructions have been provided.
